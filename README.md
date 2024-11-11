@@ -1,6 +1,6 @@
 # Like/Dislike character
 
-This simple projects shows a card with button like and dislike.
+This simple project shows a card with button like and dislike.
 The project was created using react js and react-bootstrap.
 This web project is responsive.
 
